@@ -149,7 +149,7 @@ smart-leads-dashboard/
 
 #### 1. Clone & install
 ```bash
-git clone <repo-url>
+git clone https://github.com/aakash1612/Smart_Lead_Dashboard
 cd smart-leads-dashboard
 
 # Backend
@@ -345,7 +345,4 @@ Same query params as GET `/leads`. Returns CSV file download.
 
 ---
 
-## 📧 Submission
 
-Send to: **ritik.yadav@servicehive.tech**  
-Subject: `MERN Internship Assignment Submission - Your Name`
