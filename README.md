@@ -1,6 +1,7 @@
 # 🚀 Smart Leads Dashboard
 
 A full-stack Lead Management Dashboard built with the **MERN stack** + **TypeScript**, featuring JWT authentication, role-based access control, advanced filtering, CSV export, dark mode, and Docker support.
+
 Live : ""https://smartleaderboard.netlify.app/login""
 ---
 
